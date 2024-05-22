@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## NAME:Gayathiri Roshini .S
+## REGISTER.NO:212223230174
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
